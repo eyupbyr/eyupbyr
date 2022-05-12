@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am a Computer Engineering student at Istanbul University -
+Cerrahpasa. Currently, I am increasing my knowledge on
+various fields, such as Web Development, Game Development,
+Mobile Development and looking for internship opportunities.
+
+- 📫 How to reach me: eyupbyr@gmail.com
