@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a recent graduate in Computer Engineering from Istanbul
-University - Cerrahpasa. Currently, I am increasing my knowledge on
-various fields, such as Software Testing and Software Development.
+I am a recent graduate in Computer Engineering from Istanbul University. Currently, I am learning Spring and related technologies to improve myself in back-end development.
 
 
 - 📫 How to reach me: eyupbyr@gmail.com
